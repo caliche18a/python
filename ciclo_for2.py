@@ -1,4 +1,5 @@
 datos_basicos ={
+    #Diccionario
     "nombre":"Carlos",
     "apellidos":"Jiménez Avendaño",
     "cedula":"8010650240",
